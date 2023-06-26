@@ -1,1 +1,25 @@
-bug-report
+<?xml version="1.1" encoding="windows-1251"?>
+<root>
+  <id>AB-1</id>
+  <Summary>"Add to cart" button not responding to click on product page.</Summary>
+  <Project>Website 21vek.by</Project>
+  <Version>1.1</Version>
+  <Severity>Blocker</Severity>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Author>Kovrigina N</Author>
+  <Assigned To>Fedorchenko A</Assigned To>
+  <Description>
+    <Precondition>
+      <1>Go on a website 21vek.by</1></Precondition>
+    <Environment>Windows 10 Google Chrome v: 94.0.4606.71 (x86_64)</Environment>
+    <Steps_to_reproduce>
+      <1>Find any product on the site</1>
+      <2>Go on the page of a product</2>
+      <3>Click on "add to cart" button</3>
+    </Steps_to_reproduce>
+    <Actual_result>"Add to cart" button not responding to click.</Actual_result>
+    <Expected result>The product appears in the user's shopping cart</Expected result>
+  </Description>
+  <Attachment>...</Attachment>
+</root>
